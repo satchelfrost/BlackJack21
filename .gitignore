@@ -1,0 +1,17 @@
+.vs/
+App.config
+BlackJack21.csproj
+BlackJack21.sln
+OpenTK.dll
+Properties/
+SimpleWindow.cs
+Textures.cs
+bin/
+csfml-audio-2.dll
+csfml-graphics-2.dll
+csfml-system-2.dll
+csfml-window-2.dll
+images/
+obj/
+openal32.dll
+sfml/
