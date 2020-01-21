@@ -19,11 +19,13 @@ namespace BlackJack21
                 } while (game.playGame());
             }
             
-            else {
-                Console.WriteLine("Press ESC to close window");
-                var window = new SimpleWindow();
-                window.Run();
-            }
+            /* The below code is only here because I'm testing out SFML */
+            /* But I may or may not continue with this */ 
+            //else {
+            //    Console.WriteLine("Press ESC to close window");
+            //    var window = new SimpleWindow();
+            //    window.Run();
+            //}
 
         }
     }
