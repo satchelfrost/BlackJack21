@@ -1,7 +1,7 @@
 # Black Jack 21
 Testing out the C# language with a console black jack game. 
 
-# Executable
+## Executable
 
 If you just want to play the game [here](BlackJack21.exe) is the executable for Windows.
 
