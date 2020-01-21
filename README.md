@@ -1,5 +1,6 @@
 # Black Jack 21
-Testing out the C# language with a console black jack game
+Testing out the C# language with a console black jack game. 
+If you just want to play the game ![here](BlackJack21.exe) is the executable for Windows.
 
 ## Rules of Black Jack
 * The goal of blackjack is to beat the dealer's hand without going over 21.
